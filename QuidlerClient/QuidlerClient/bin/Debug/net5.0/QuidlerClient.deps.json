@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QuidlerClient/1.0.0": {
+        "dependencies": {
+          "QuiddlerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "QuidlerClient.dll": {}
+        }
+      },
+      "QuiddlerLibrary/1.0.0": {
+        "runtime": {
+          "QuiddlerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuidlerClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuiddlerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

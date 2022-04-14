@@ -1,0 +1,2 @@
+1. Hard coded score to 5 for testing purposes
+2. Changed "your cards are" in the method

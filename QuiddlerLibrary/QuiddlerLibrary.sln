@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuiddlerLibrary", "QuiddlerLibrary.csproj", "{8F7B1361-96A7-4847-B2A6-6F69B8F0CA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "..\test\test.csproj", "{32B98583-E1E6-42ED-8616-E44EAEC277A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7B1361-96A7-4847-B2A6-6F69B8F0CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7B1361-96A7-4847-B2A6-6F69B8F0CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7B1361-96A7-4847-B2A6-6F69B8F0CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7B1361-96A7-4847-B2A6-6F69B8F0CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B98583-E1E6-42ED-8616-E44EAEC277A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B98583-E1E6-42ED-8616-E44EAEC277A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B98583-E1E6-42ED-8616-E44EAEC277A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B98583-E1E6-42ED-8616-E44EAEC277A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271BC97B-289E-48EB-B510-F9BBF5B8B148}
+	EndGlobalSection
+EndGlobal
